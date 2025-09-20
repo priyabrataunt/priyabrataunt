@@ -26,7 +26,7 @@ class SoftwareEngineer:
         self.language_spoken = ["Odia_In", Hindi_In", "en_US"]
 
     def say_hi(self):
-        print("Thanks for coming to my profile. Connect with me in social media")
+        print("Thanks for visiting my profile. Connect with me on social media.")
 
 
 me = SoftwareEngineer()
