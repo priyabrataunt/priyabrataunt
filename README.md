@@ -6,10 +6,32 @@
   
   
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY3NmhqOGJxdG81ejJ1bGQyYTQ4djRmczNkaWljZXAzeTlubXNkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="30"/> 
-  Namaste, I'm <a href="https://www.blackcater.win/" target="_blank">Priyabrata Behera</a> <img
+  Namaste (नमस्ते), I'm <a href="https://www.blackcater.win/" target="_blank">Priyabrata Behera</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Priyabrata Beheraa"
+        self.role = "Software Engineer"
+        self.language_spoken = ["Odia_In", Hindi_In", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for coming to my profile. Connect with me in social media")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 ## 🛠 Tech Stack
 - Python | JavaScript | TypeScript
@@ -21,7 +43,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 I love automating boring tasks and contributing to open source.
 
 ---
-⭐️ From [Priyabrata Behera](https://github.com/PriyabrataBehera)
+⭐️ From [Priyabrata Behera](https://github.com/priyabrataunt/priyabrataunt)
 """
 
 <!--
