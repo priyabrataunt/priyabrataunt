@@ -56,7 +56,7 @@ me.say_hi()
 ---
 
 ### 🧰 Tech Stack
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000"/>
@@ -69,7 +69,7 @@ me.say_hi()
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyabrataunt&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabrataunt&layout=compact&theme=tokyonight" />
 </p>
