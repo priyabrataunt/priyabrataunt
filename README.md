@@ -11,7 +11,6 @@ Namaste (नमस्ते), I'm <a href="https://www.linkedin.com/in/beherapri
 <h3 align="center">Tech Enthusiast | Passionate Coder | Active Learner</h3>
 
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/beherapriyabrata/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Priyabrata%20Behera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,8 +21,6 @@ Namaste (नमस्ते), I'm <a href="https://www.linkedin.com/in/beherapri
 </p>
 
 ---
-<br />
-
 ### 👨‍💻 About Me
 ```python
 
