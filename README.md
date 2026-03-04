@@ -2,12 +2,14 @@
 
 <!-- Profile README for github.com/priyabrataunt -->
 
+
+
 <h1 align="center">
-  
-  
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY3NmhqOGJxdG81ejJ1bGQyYTQ4djRmczNkaWljZXAzeTlubXNkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="30"/>
 Namaste (नमस्ते), I'm <a href="https://www.linkedin.com/in/beherapriyabrata/" target="_blank">Priyabrata Behera</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 <h3 align="center">Tech Enthusiast | Passionate Coder | Active Learner</h3>
 
 
@@ -62,8 +64,11 @@ me.say_hi()
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-6A0DAD?style=flat&logo=protocolsio&logoColor=white"/>
 </p>
 
 ---
