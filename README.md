@@ -71,18 +71,82 @@ me.say_hi()
   <img src="https://img.shields.io/badge/MCP-6A0DAD?style=flat&logo=protocolsio&logoColor=white"/>
 </p>
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📊 GitHub Stats
-<p>
+<!-- <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyabrataunt&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabrataunt&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=priyabrataunt&theme=tokyonight" />
+</p> -->
+
+
+<div align="center">
+
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=priyabrataunt&fontSize=50&fontColor=70a5fd&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descColor=a9b1d6" width="100%"/>
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+---
+
+### 📊 GitHub Statistics
+
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=priyabrataunt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabrataunt&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" />
 </p>
 
+---
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=priyabrataunt&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+
+---
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=priyabrataunt&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1" />
+
+---
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyabrataunt&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+---
+
+### ⏱️ WakaTime Coding Stats
+<!-- Requires WakaTime account + GitHub Action setup — see: https://github.com/anmol098/waka-readme-stats -->
+<!--
+![Waka stats](https://github-readme-stats.vercel.app/api/wakatime?username=priyabrataunt&theme=tokyonight&layout=compact)
+-->
+
+---
+
+### 👁️ Profile Views & Followers
+
+<img src="https://komarev.com/ghpvc/?username=priyabrataunt&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/priyabrataunt?style=for-the-badge&color=70a5fd&labelColor=1a1b27&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/priyabrataunt?style=for-the-badge&color=70a5fd&labelColor=1a1b27&label=TOTAL+STARS" />
+
+---
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=100&section=footer" width="100%"/>
+
+</div>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---
 
 ### 🌐 Let’s Connect
