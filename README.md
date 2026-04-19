@@ -77,6 +77,9 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/MCP-6A0DAD?style=flat&logo=protocolsio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-FF6F61?style=flat&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white"/>
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
